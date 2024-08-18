@@ -1,0 +1,25 @@
+nav {
+    background-color: #1cc63d;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    z-index: calc(1000000);
+}
+
+.menu-left {
+    color: #fff;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+}
+
+.menu-center {
+    display: flex;
+    justify-content: space-between;
+    width: 38%;
+    color: #fff;
+    float: right;
+    padding: 20px 80px;
+    text-decoration: none;
+    font-family: "Lato";
+}

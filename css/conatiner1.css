@@ -1,0 +1,46 @@
+.container-central {
+    position:absolute;
+    margin-top: 10%;
+    right:0;
+    display: flex;
+    background-color: #074213;
+}
+
+.quem-somos {
+    width: 60%;
+    height: 70vh;
+
+    padding-top: 10%;
+    padding-left: 2%;
+    color: #fff;
+    font-family: "Lato";
+}
+
+.quem-somos h1 {
+    font-size: 36px;
+    font-family: "Lato";
+}
+
+.quem-somos h6 {
+    font-size: 25px;
+    padding-top: 2%;
+    font-family: "Lato";
+}
+
+.linha {
+    width: 35%;
+    height: 0.5vh;
+    background-color: #1FC73E;
+}
+
+.foto {
+    width: 40%;
+}
+
+.foto img {
+    max-width:590px;
+    max-height:600px;
+   
+    padding-top: 0%;
+    padding-left: 0%;
+}

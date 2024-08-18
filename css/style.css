@@ -1,0 +1,42 @@
+.menu-center a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #074213;
+    transition: 1s;
+    cursor: pointer;
+    transform: scale(1.1);
+    text-decoration: none;
+}
+
+.instagram a {
+    color: #074213;
+    text-decoration: none;
+}
+
+.instagram a:hover {
+    color: #1cc63d;
+    transition: 1s;
+}
+
+.ods a {
+    color: #074213;
+    text-decoration: none;
+}
+
+.ods a:hover {
+    color: #1cc63d;
+    transition: 1s;
+}
+
+.time a {
+    color: #074213;
+    text-decoration: none;
+}
+
+.time a:hover {
+    color: #1cc63d;
+    transition: 1s;
+}
